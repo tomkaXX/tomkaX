@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
-  <img  align="right" src="3aM.gif" width="250">
+  <img  align="right" src="gifs/3aM.gif" width="250">
  </p>
 
 <p align="center">
