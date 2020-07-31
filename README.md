@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tamara Koliada </h1>
 <h3 align="center">A passionate Data Scientist and Open Source contributor, founder of PandAid project and I don't like  Windows for last 10 years:) </h3>
 
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" />
 
