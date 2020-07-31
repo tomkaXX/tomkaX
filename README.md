@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tomacolyada@gmail.com**
 
-<img align="right" src="https://github.com/tomkaX/tomkaX/blob/master/7iJR.giff" width="2000">
+<img  src="https://github.com/tomkaX/tomkaX/blob/master/7iJR.giff" width="200">
 
 
 
@@ -38,8 +38,11 @@ Here are some ideas to get you started:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTplmXRQjcdkBYlZ2lZzfB44DauhiCFsFMSLA&usqp=CAU" alt="javascript" width="20" height="20"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxKYF2FqX381JPE0nhmLTEhp34WIYxh7rNZA&usqp=CAU" alt="mongodb" width="20" height="20"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxnVDsDUlmCuCD5LvB8ZXpD5rHxmmQsZuuvQ&usqp=CAU" alt="nodejs" width="20" height="20"/> 
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZkkBkKFvxLloXfCiZErsn_TXAVC_RXVfA9A&usqp=CAU" alt="python" width="20" height="20"/></p><p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" /> </p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZkkBkKFvxLloXfCiZErsn_TXAVC_RXVfA9A&usqp=CAU" alt="python" width="20" height="20"/></p>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
+  <img  src="https://github.com/tomkaX/tomkaX/blob/master/7iJR.giff" width="200">
+ </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tomakoliada/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tomakoliada/" height="20" width="20" /></a>
