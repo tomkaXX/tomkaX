@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/tomkaX?tab=repositories](https://github.com/tomkaX?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/tomkaX?tab=repositories)
 
 - 💬 Ask me about **anything**
 
