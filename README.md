@@ -17,16 +17,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Tamara Koliada </h1>
 <h3 align="center">A passionate Data Scientist and Open Source contributor, founder of PandAid project and I don't like  Windows for last 10 years:) </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/tomkaX?tab=repositories](https://github.com/tomkaX?tab=repositories)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **tomacolyada@gmail.com**
-
-
-<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM-S1OtC02gqLg1ktAyf3AYa-wQweIzoYRAg&usqp=CAU" alt="bootstrap" width="20" height="20"/> 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM-S1OtC02gqLg1ktAyf3AYa-wQweIzoYRAg&usqp=CAU" alt="bootstrap"  width="20" height="20" /> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAxMBOEBQyjjhFUhco9kgt8-Md6fgXuUP1xQ&usqp=CAU" alt="c" width="20" height="20"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5Nv0XNyegzB0AvP-uFh4_A76FVuPg8t2g5g&usqp=CAU" alt="cplusplus" width="20" height="20"/> 
   
@@ -36,6 +30,15 @@ Here are some ideas to get you started:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTxKYF2FqX381JPE0nhmLTEhp34WIYxh7rNZA&usqp=CAU" alt="mongodb" width="20" height="20"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxnVDsDUlmCuCD5LvB8ZXpD5rHxmmQsZuuvQ&usqp=CAU" alt="nodejs" width="20" height="20"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZkkBkKFvxLloXfCiZErsn_TXAVC_RXVfA9A&usqp=CAU" alt="python" width="20" height="20"/></p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/tomkaX?tab=repositories](https://github.com/tomkaX?tab=repositories)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **tomacolyada@gmail.com**
+
+
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
   <img  align="right" src="3aM.gif" width="250">
