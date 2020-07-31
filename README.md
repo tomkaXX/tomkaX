@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tomacolyada@gmail.com**
 
-<img  src="https://github.com/tomkaX/tomkaX/blob/master/7iJR.giff" width="200">
+<!--img  src="https://github.com/tomkaX/tomkaX/blob/master/7iJR.giff" width="200">
 
 
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZkkBkKFvxLloXfCiZErsn_TXAVC_RXVfA9A&usqp=CAU" alt="python" width="20" height="20"/></p>
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
-  <img  src="https://github.com/tomkaX/tomkaX/blob/master/7iJR.giff" width="200">
+  <img  align="right" src="3aM.gif" width="250">
  </p>
 
 <p align="center">
