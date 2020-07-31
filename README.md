@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tomacolyada@gmail.com**
 
-<!--img  src="https://github.com/tomkaX/tomkaX/blob/master/7iJR.giff" width="200">
-
-
 
 <p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM-S1OtC02gqLg1ktAyf3AYa-wQweIzoYRAg&usqp=CAU" alt="bootstrap" width="20" height="20"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAxMBOEBQyjjhFUhco9kgt8-Md6fgXuUP1xQ&usqp=CAU" alt="c" width="20" height="20"/> 
