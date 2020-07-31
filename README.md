@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
-  <img  align="right" src="gifs/3aM.gif" width="230">
+  <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
  </p>
 
 <p align="center">
