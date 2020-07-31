@@ -15,15 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Tamara Koliada </h1>
-<h3 align="center">A passionate Data Scientist and Open Source contributor, founder of PandAid project and I don't use Windows for last 10 years:) </h3>
-<img align="right" src="https://github.com/tomkaX/tomkaX/blob/master/T7Kv.gif" width="2000">
-
+<h3 align="center">A passionate Data Scientist and Open Source contributor, founder of PandAid project and I don't like  Windows for last 10 years:) </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/tomkaX?tab=repositories](https://github.com/tomkaX?tab=repositories)
@@ -31,6 +24,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **tomacolyada@gmail.com**
+
+<img align="right" src="https://github.com/tomkaX/tomkaX/blob/master/T7Kv.gif" width="2000">
+
+
 
 <p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSM-S1OtC02gqLg1ktAyf3AYa-wQweIzoYRAg&usqp=CAU" alt="bootstrap" width="20" height="20"/> 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTAxMBOEBQyjjhFUhco9kgt8-Md6fgXuUP1xQ&usqp=CAU" alt="c" width="20" height="20"/> 
