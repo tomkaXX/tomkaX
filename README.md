@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **tomacolyada@gmail.com**
 
-<img align="right" src="https://github.com/tomkaX/tomkaX/blob/master/T7Kv.gif" width="2000">
+<img align="right" src="https://github.com/tomkaX/tomkaX/blob/master/7iJR.giff" width="2000">
 
 
 
