@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" />
 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonalexa.svgU" alt="alexa" width="20" height="20"/> 
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/anaconda.svg" alt="anaconda" width="20" height="20"/> 
   
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apacheflink.svg" alt="flinks" width="20" height="20"/> 
