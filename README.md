@@ -23,26 +23,23 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=tomkax" alt="tomkaX" />
 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
+ <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/azure.svg" alt="aws"  width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="20" height="20"/>
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/apacheflink.svg" alt="flinks" width="20" height="20"/> 
   <img src="https://img.icons8.com/ultraviolet/40/000000/xbox-r.png" alt="R" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="II" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/tomkaX?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/admondtamang?tab=repositories)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **tomacolyada@gmail.com**
+- 📫 How to reach me **admondtamang@gmail.com**
 
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
+  <img src="https://github-readme-stats.vercel.app/api?username=admondtamang&show_icons=true" alt="admond" />
   <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
  </p>
 
