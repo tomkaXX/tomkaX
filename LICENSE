@@ -646,6 +646,8 @@ the "copyright" line and a pointer to where the full notice is found.
 
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
+    
+    This specific licence file is going together with @tomkax repo - don't forget to fork this along with other files.
 
 Also add information on how to contact you by electronic and paper mail.
 
@@ -672,3 +674,4 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
