@@ -45,6 +45,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=tomkax&show_icons=true" alt="tomkaX" />
   <img  align="right" src="https://github.com/tomkaX/tomkaX/blob/master/gifs/3aM.gif" width="230">
  </p>
+ <!--
+Don't forget to fork this repo and say thanks to **tomkaX/tomkaX** it  appears on your GitHub profile.
+-->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tomakoliada/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tomakoliada/" height="20" width="20" /></a>
@@ -53,4 +56,7 @@ Here are some ideas to get you started:
  <a href="https://twitter.com/T0MKA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/T0MKA" height="20" width="20" /></a>
 
 </p>
+
+
+
 
